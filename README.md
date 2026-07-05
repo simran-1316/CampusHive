@@ -1,6 +1,6 @@
 # 🏫 CampusHive
 
-CampusHive is a simple multi-page website designed to help students explore campus clubs and stay updated with upcoming events. This project was built to practice the fundamentals of HTML and CSS, focusing on semantic structure, navigation, and clean webpage layouts.
+CampusHive is a simple multi-page website designed to help students explore campus clubs and stay updated with upcoming events. This project was built to practice the fundamentals of HTML, focusing on semantic structure, navigation, and clean webpage layouts.
 
 ## 🚀 Features
 
@@ -13,7 +13,6 @@ CampusHive is a simple multi-page website designed to help students explore camp
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3
 
 ## 📚 What I Learned
 
@@ -22,12 +21,11 @@ Through this project, I improved my understanding of:
 - Semantic HTML elements
 - Website structure and page organization
 - Creating navigation between multiple webpages
-- CSS styling and layouts
 - Building clean and user-friendly interfaces
 
 ## 🎯 Purpose
 
-The goal of this project was to strengthen my frontend development fundamentals by creating a structured, multi-page website. It helped me gain hands-on experience with HTML and CSS while understanding how websites are organized and connected.
+The goal of this project was to strengthen my frontend development fundamentals by creating a structured, multi-page website. It helped me gain hands-on experience with HTML while understanding how websites are organized and connected.
 
 ## 📂 Pages
 
