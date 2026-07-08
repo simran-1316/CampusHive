@@ -33,6 +33,11 @@ The goal of this project was to strengthen my frontend development fundamentals 
 - **Clubs** – Information about student clubs and activities.
 - **Events** – Details about upcoming campus events.
 
+<img width="1920" height="1020" alt="Screenshot 2026-07-08 105416" src="https://github.com/user-attachments/assets/20f84b6a-9756-4c12-88ea-c30fef5f85d9" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-08 105406" src="https://github.com/user-attachments/assets/a222cd32-31df-4795-aa6d-cba67f44816f" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-08 105354" src="https://github.com/user-attachments/assets/74d6fca2-8f75-4d82-ba36-888044e96dcf" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-08 105339" src="https://github.com/user-attachments/assets/4a9fd10b-b590-4153-ac67-7eb5e25f1ed4" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-08 105329" src="https://github.com/user-attachments/assets/f7b15d0f-235d-4097-a49b-dd42136c3a6d" />
 
 ⭐ This project was created as part of my web development learning journey to practice HTML and CSS fundamentals.
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/simran-1316/stackblitz-starters-ahnygjkk)
